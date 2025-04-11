@@ -8,7 +8,7 @@
 </div>  
 
 ## 🚀 Sobre mim  
-🎓 Estudante de Engenharia de Software na Universidade Positivo e Tecnologia da Informação na UFMS.  
+🎓 Estudante de Tecnologia da Informação na UFMS.  
 📚 Formado como Técnico em Informática para Desenvolvimento Full Stack e Dispositivos Móveis pelo IFPR.  
 👨‍💻 Estagiário de TI e apaixonado por desenvolvimento web, mobile e inteligência artificial.  
 ! Nota: Ainda estou atualizando meu perfil. Fazia muito tempo que não utilizava, então não espere muito.

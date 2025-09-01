@@ -1,37 +1,40 @@
-permissions:
-  contents: write
-
-name: Generate Snake
+name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Executa a cada 12 horas
-  workflow_dispatch:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
+  workflow_dispatch:     # permite rodar manualmente
+  push:
+    branches:
+      - main
 
 permissions:
-  contents: write # Permissão essencial para que o bot possa escrever no repositório
+  contents: write   # 🔑 permite criar/atualizar branch output
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 10
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      - name: Generate the snake animation
-        uses: Platane/snk@master
+      - name: Generate GitHub Contributions Snake Animations
+        uses: Platane/snk@v3
         with:
-          github_user_name: gabrielc-neto # Seu nome de usuário
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            assets/github-snake.svg
-            assets/github-snake-dark.svg?palette=github-dark
-            assets/github-snake.gif
-            
-      - name: Commit and push the snake
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add assets/
-          git commit -m "feat: generate GitHub snake animation" || echo "No changes to commit"
-          git push
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animation [skip ci]"
+          force_orphan: true   # cria o branch se não existir

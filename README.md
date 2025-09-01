@@ -101,7 +101,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gabrielc-neto&theme=dracula&no-frame=true&no-bg=true" alt="Troféus do GitHub" height="120" />
-  <img src="https://raw.githubusercontent.com/gabrielc-neto/gabrielc-neto/output/github-snake.svg" alt="Github Snake" style="max-width: 100%; height: auto;" />
 </div>
-
----
+<div align="center">
+ <img src="https://raw.githubusercontent.com/gabrielc-neto/gabrielc-neto/main/assets/github-snake.svg" alt="Github Snake" style="max-width: 100%; height: auto;" /></div>

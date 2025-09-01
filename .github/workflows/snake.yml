@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write # <--- Linha adicionada aqui
+  contents: write # Mantenha esta linha
 
 jobs:
   build:
@@ -23,10 +23,14 @@ jobs:
             ./dist/github-snake.gif
             ./dist/github-snake-light.svg?palette=github-light
 
+      # NOVO PASSO DE PUSH
       - name: Push to repo
-        uses: crazy-max/ghaction-github-pages@v2.6.0
-        with:
-          target_branch: main
-          build_dir: dist
+        uses: cpina/github-action-push-to-another-repository@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          API_TOKEN_GITHUB: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          source-directory: 'dist'
+          destination-github-username: 'gabrielc-neto'
+          destination-repository-name: 'gabrielc-neto'
+          user-email: 'gabrielc.neto@gmail.com'
+          commit-message: 'feat: Generate GitHub Snake'

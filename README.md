@@ -1,44 +1,107 @@
-# 👋 Olá! Eu sou Gabriel Correa  
-
-💻 Desenvolvedor em aprendizado contínuo, sempre explorando novas tecnologias e criando soluções inovadoras.  
-🚀 Buscando desafios que me façam evoluir e contribuir para a comunidade tech.  
-
 <div align="center">
-  <img src="https://m.media-amazon.com/images/I/715vwvP5ZEL.png" height="90" width="90">
-</div>  
-
-## 🚀 Sobre mim  
-🎓 Estudante de Tecnologia da Informação na UFMS.  
-📚 Formado como Técnico em Informática para Desenvolvimento Full Stack e Dispositivos Móveis pelo IFPR.  
-👨‍💻 Estagiário de TI e apaixonado por desenvolvimento web, mobile e inteligência artificial.  
-! Nota: Ainda estou atualizando meu perfil. Fazia muito tempo que não utilizava, então não espere muito.
-
-## 📫 Contato
-
-<!-- Ícones com links -->
-<a href="https://github.com/gabrielc-neto" target="_blank" style="font-size: 2rem; margin-right: 1rem;">
- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
-  <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8"/>
-</svg>
-</a>
-<a href="https://www.linkedin.com/in/gabriel-correa-neto/" target="_blank" style="font-size: 2rem; margin-right: 1rem;">
-  <i class="bi bi-linkedin"></i>
-</a>
-<a href="https://www.instagram.com/gabrielc.neto/" target="_blank" style="font-size: 2rem; margin-right: 1rem;">
-  <i class="bi bi-instagram"></i>
-</a>
-<a href="mailto:gabrielneto327@gmail.com" style="font-size: 2rem;">
-  <i class="bi bi-envelope-fill"></i>
-</a>
-
-## Detalhes
-- Quer saber meus fortes? Tá na mão! 👇
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielc-neto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://github.com/gabrielc-neto">
+    <img src="https://m.media-amazon.com/images/I/715vwvP5ZEL.png" height="150" width="150" alt="Avatar do Gabriel">
+  </a>
+  <h1 style="color: #2c3e50;">Olá! Eu sou Gabriel Correa 👋</h1>
+  <p style="color: #5d6d7e; font-size: 1.2rem;">
+    Desenvolvedor Full Stack em aprendizado contínuo, construindo soluções tecnológicas robustas do zero ao deploy.
+  </p>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielc-neto/gabrielc-neto/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielc-neto/gabrielc-neto/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gabrielc-neto/gabrielc-neto/output/github-snake.svg" />
-</picture>
+
+---
+
+### 🌐 Conecte-se comigo
+
+<div align="center">
+  <a href="https://github.com/gabrielc-neto" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Link para o GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-correa-neto/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link para o LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/gabrielc.neto/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Link para o Instagram">
+  </a>
+  <a href="mailto:gabrielneto327@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Link para o Gmail">
+  </a>
+</div>
+
+---
+
+### 💻 Minhas Habilidades
+
+<div align="center">
+  <br>
+  <h4>Linguagens de Programação & Lógica</h4>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <br><br>
+  <h4>Desenvolvimento Web & Frontend</h4>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <br><br>
+  <h4>Backend & Frameworks</h4>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <br><br>
+  <h4>Banco de Dados</h4>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <br><br>
+  <h4>Ferramentas & DevOps</h4>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows_Batch-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Batch" />
+  <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| **[Contador Simples](https://gabrielc-neto.github.io/contador-simples)** | Um contador interativo para demonstrar manipulação do DOM. | `HTML`, `CSS`, `JavaScript` |
+| **[Lista de Tarefas](https://gabrielc-neto.github.io/lista-de-tarefas-js)** | Uma aplicação de lista de afazeres com adição, remoção e conclusão de itens. | `HTML`, `CSS`, `JavaScript` |
+| **[Gerador de Cores](https://gabrielc-neto.github.io/gerador-de-cores)** | Uma ferramenta divertida que gera cores aleatórias em formato hexadecimal. | `HTML`, `CSS`, `JavaScript` |
+| **[Galeria de Imagens](https://gabrielc-neto.github.io/galeria-de-imagens)** | Uma galeria simples para navegar entre fotos com botões de controle. | `HTML`, `CSS`, `JavaScript` |
+| **[Adivinhe o Número](https://gabrielc-neto.github.io/jogo-adivinhe-o-numero)** | Um mini-jogo de adivinhação para praticar lógica e eventos. | `HTML`, `CSS`, `JavaScript` |
+
+---
+
+### 📊 Estatísticas e Atividade
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabrielc-neto&label=Visitas%20ao%20Perfil&color=0e75b6&style=flat" alt="Contador de Visualizações" />
+</div>
+
+<div align="center">
+  <a href="https://wakatime.com/@gabrielc-neto">
+    <img src="https://wakatime.com/badge/user/533c06e1-95c5-4428-98e3-0d55e8810232.svg" alt="Wakatime" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielc-neto&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielc-neto&theme=dracula&hide_border=true" alt="Estatísticas de Streak" height="150" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrielc-neto&theme=dracula&no-frame=true&no-bg=true" alt="Troféus do GitHub" height="120" />
+  <img src="https://raw.githubusercontent.com/gabrielc-neto/gabrielc-neto/output/github-snake.svg" alt="Github Snake" style="max-width: 100%; height: auto;" />
+</div>
+
+---

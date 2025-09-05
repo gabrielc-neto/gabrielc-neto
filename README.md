@@ -86,7 +86,6 @@
 
 <div align="center">
   <a href="https://wakatime.com/@gabrielc_neto">
-    <img src="https://wakatime.com/badge/user/533c06e1-95c5-4428-98e3-0d55e8810232.svg" alt="Wakatime" />
   </a>
 </div>
 

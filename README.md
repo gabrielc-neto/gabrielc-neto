@@ -96,11 +96,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielc-neto&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielc-neto&theme=dracula&hide_border=true" alt="Estatísticas de Streak" height="150" />
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielc-neto&theme=dracula&no-frame=true&no-bg=true" alt="Troféus do GitHub" height="120" />
-</div>
-<div align="center">
- <img src="https://raw.githubusercontent.com/gabrielc-neto/gabrielc-neto/main/assets/github-snake.svg" alt="Github Snake" style="max-width: 100%; height: auto;" /></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielc-neto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />

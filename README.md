@@ -95,5 +95,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielc-neto&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielc-neto&theme=dracula&hide_border=true" alt="Estatísticas de Streak" height="150" />
-</div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielc-neto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielc-neto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /></div>

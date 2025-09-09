@@ -70,11 +70,8 @@
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[Contador Simples](https://gabrielc-neto.github.io/contador-simples)** | Um contador interativo para demonstrar manipulação do DOM. | `HTML`, `CSS`, `JavaScript` |
-| **[Lista de Tarefas](https://gabrielc-neto.github.io/lista-de-tarefas-js)** | Uma aplicação de lista de afazeres com adição, remoção e conclusão de itens. | `HTML`, `CSS`, `JavaScript` |
-| **[Gerador de Cores](https://gabrielc-neto.github.io/gerador-de-cores)** | Uma ferramenta divertida que gera cores aleatórias em formato hexadecimal. | `HTML`, `CSS`, `JavaScript` |
-| **[Galeria de Imagens](https://gabrielc-neto.github.io/galeria-de-imagens)** | Uma galeria simples para navegar entre fotos com botões de controle. | `HTML`, `CSS`, `JavaScript` |
-| **[Adivinhe o Número](https://gabrielc-neto.github.io/jogo-adivinhe-o-numero)** | Um mini-jogo de adivinhação para praticar lógica e eventos. | `HTML`, `CSS`, `JavaScript` |
+| **[Contador Simples]([https://gabrielc-neto.github.io/contador-simples](https://github.com/gabrielc-neto/contador-de-cliques))** | Um contador interativo para demonstrar manipulação do DOM. | `HTML`, `CSS`, `JavaScript` |
+| **[Lista de Tarefas](h[ttps://gabrielc-neto.github.io/lista-de-tarefas-j](https://github.com/gabrielc-neto/gerenciador-de-tarefas)s)** | Uma aplicação de lista de afazeres com adição, remoção e conclusão de itens. | `C#` 
 
 ---
 
